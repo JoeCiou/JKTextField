@@ -423,6 +423,7 @@
 				D84E98481C1A9AC300963123 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D84E98491C1A9AC300963123 /* Build configuration list for PBXNativeTarget "Sample ApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -431,6 +432,7 @@
 				D84E984B1C1A9AC300963123 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
